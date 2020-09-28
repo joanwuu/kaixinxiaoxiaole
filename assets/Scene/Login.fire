@@ -613,7 +613,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 300,
+      "width": 0,
       "height": 53
     },
     "_anchorPoint": {
@@ -658,7 +658,11 @@
       "__id__": 12
     },
     "_enabled": true,
-    "_materials": [],
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
@@ -704,7 +708,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 240,
-      "height": 30
+      "height": 37.8
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -748,7 +752,11 @@
       "__id__": 14
     },
     "_enabled": true,
-    "_materials": [],
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
     "_useOriginalSize": false,
     "_string": "超蠢的进度条设计",
     "_N$string": "超蠢的进度条设计",
@@ -776,7 +784,11 @@
       "__id__": 11
     },
     "_enabled": true,
-    "_materials": [],
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
@@ -809,7 +821,7 @@
       "__id__": 13
     },
     "_N$mode": 0,
-    "_N$progress": 1,
+    "_N$progress": 0,
     "_N$reverse": false,
     "_id": "depXaL++5KZ78Ey+9obvIi"
   },
@@ -840,6 +852,9 @@
     "_enabled": true,
     "loadingBar": {
       "__id__": 17
+    },
+    "loadingText": {
+      "__id__": 15
     },
     "loginButton": {
       "__id__": 9
